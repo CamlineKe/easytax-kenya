@@ -115,21 +115,5 @@ Open an issue or submit a PR. Suggestions:
 - Add user management, roles, and subscription billing flows
 - Add CI (GitHub Actions) to run lint and tests
 
-## License
 
-This project has no license file. If this is intended to be open-source, add a `LICENSE` file (e.g., MIT).
 
-## Notes & assumptions
-
-- The UI contains placeholders for integrations — I assumed these are intentionally not connected to real APIs.
-- Project uses `pnpm` as package manager (see `package.json`).
-
-## Next steps I can help with
-
-- Wire a minimal Express/Koa backend to proxy and secure KRA/eTIMS/M-Pesa calls
-- Add unit tests and CI workflow
-- Add deployment instructions (Netlify/Vercel) and production environment setup
-
----
-
-If you want, I can commit this `README.md` now or tailor it further (shorter, more marketing-oriented, or with screenshots).
